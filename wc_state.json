@@ -1,13 +1,14 @@
 {
-  "scores_hash": "ae765b1d226e9d38137f188d595dd754",
-  "last_run": "2026-06-13T00:14:13.063074",
-  "matches_completed": 3,
+  "scores_hash": "473bf615501e86b8dd7e43bea09a8ed5",
+  "last_run": "2026-06-13T04:55:28.789761",
+  "matches_completed": 4,
   "group_winners": {
     "E": "GERMANY",
     "F": "NETHERLANDS",
     "G": "BELGIUM",
     "H": "SPAIN",
     "Group A": "MEXICO",
-    "Group B": "BOSNIA-H."
+    "Group B": "BOSNIA-H.",
+    "Group D": "USA"
   }
 }
